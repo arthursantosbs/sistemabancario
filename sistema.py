@@ -53,7 +53,7 @@ while True:
     elif opcao == "e":
         print('Extrato')
         print(extrato)
-        print(f'Saldo da conta R$ {saldo:.2f}')
+        print(f'Saldo da conta foi esse R$ {saldo:.2f}')
     elif opcao == "q":
         break
 
